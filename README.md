@@ -1,12 +1,12 @@
 
 <h1>Active Directory Home Lab</h1>
 <h2>Description</h2>
-In this lab, we will walk through creating an active directory home lab using Oracle Virtual Box. Configuring and running the lab will help develop your understanding of how active directories and Windows network works
+Here, I created an active directory home lab using Oracle VirtualBox. Configuring and running the lab will help develop your understanding of how Active Directory and Windows network works
 
 
 Developed content for, as well as performing the following tasks:
 
-• Active Directory Administration: -PowerShell: Automated provision, maintaining, and de-provisioning user accounts
+• Active Directory Administration: -PowerShell: Automated provision, maintenance, and de-provisioning of user accounts
 
 • Setting up Remote Access Server (RAS) features to support NAT/PAT
 
@@ -26,9 +26,9 @@ Developed content for, as well as performing the following tasks:
 - <b>Windows 10</b>
 - <b>Server 2019</b>
 
-<h2>Program walk-through:</h2>
+<h2>Snapshot:</h2>
 
 <p align="center">
-Creating Users Using Powershell: <br/>
+Creating Users Using PowerShell: <br/>
 <img src="https://imgur.com/YLw8vNp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
